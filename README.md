@@ -1,6 +1,7 @@
 # TP 4 : Sockets en mode non-connecté UDP (Chat C/S)
 
 **Matière :** Développement d'applications réparties — LSI 3 (FSS)  
+**Étudiant :** Salmen Zekri  
 **Enseignantes :** Amal ABID & Zeineb DAOUD  
 
 ---
@@ -66,15 +67,7 @@ java -cp ".;src" TestDiffusion
 
 ## 5. Dépôt des livrables (GitHub & ENT)
 
-### Commandes pour publier sur GitHub :
-```bash
-git init
-git add .
-git commit -m "TP4 : Chat UDP client-serveur et diffusion multi-clients"
-git branch -M main
-git remote add origin https://github.com/<votre-identifiant>/votreNomPrenom_LSI3_DevAppReparties.git
-git push -u origin main
-```
-* **Livrables à déposer sur l'ENT :**
-  1. Lien du repository GitHub.
-  2. Le fichier `README.md` contenant la synthèse et les captures d'écran.
+* **Lien du repository GitHub :** [https://github.com/zikosalmen/SalmenZekri_LSI3_DevAppRepartie-tp4](https://github.com/zikosalmen/SalmenZekri_LSI3_DevAppRepartie-tp4)
+* **Livrables déposés sur l'ENT :**
+  1. Le lien du repository GitHub ci-dessus.
+  2. Le présent fichier `README.md` avec synthèse et captures d'écran.
