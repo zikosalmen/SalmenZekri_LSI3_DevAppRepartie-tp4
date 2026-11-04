@@ -1,0 +1,8 @@
+# Bytecode Java
+*.class
+bin/
+
+# Fichiers temporaires ou IDE
+.vscode/
+.idea/
+*.log
